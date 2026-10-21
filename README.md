@@ -1,4 +1,4 @@
-![Daniel — aplicações e estruturas de dados em Java.](./assets/header.svg?v=3)
+![Daniel — aplicações e estruturas de dados em Java.](./assets/header.svg?v=4)
 
 [Meus repositórios](https://github.com/Danielloes?tab=repositories) &nbsp; / &nbsp; [Histórico de contribuições](https://github.com/Danielloes?tab=overview#activity-overview)
 
@@ -38,6 +38,18 @@ Implementações didáticas de listas: array redimensionável, lista simplesment
 </td>
 </tr>
 </table>
+
+<details>
+<summary><strong>Mais trabalhos: jogos e orientação a objetos</strong></summary>
+
+<br>
+
+- **[Liga 4](https://github.com/Danielloes/connect-four-java)** — jogo no console com tabuleiro 6×7, verificação de vitória e adversário com jogadas aleatórias.
+- **[Simulador de embarque](https://github.com/Danielloes/flight-boarding-simulator)** — exercício de modelagem com herança, interfaces e composição; valida assentos, capacidade e peso.
+- **[Registros de alunos](https://github.com/Danielloes/student-record-manager)** — leitura de arquivos binários, ordenação por nota e exportação em texto UTF-8.
+- **[Controle de despesas](https://github.com/Danielloes/expense-tracker)** — exercício de polimorfismo com uma interface comum para calcular diferentes despesas usando BigDecimal.
+
+</details>
 
 <details>
 <summary><strong>Ver as interfaces dos aplicativos</strong></summary>
