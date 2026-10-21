@@ -10,7 +10,7 @@ Desenvolvo projetos em Java e Python, com interesse em backend, infraestrutura e
 
 ---
 
-### 💻 Tecnologias
+###  Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -18,7 +18,7 @@ Desenvolvo projetos em Java e Python, com interesse em backend, infraestrutura e
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🌱 Interesses
+###  Interesses
 
 - Desenvolvimento de aplicações backend.
 - Infraestrutura e comunicação entre servidores.
