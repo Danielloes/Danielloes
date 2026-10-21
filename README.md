@@ -1,51 +1,43 @@
-![Daniel — código, servidores e o que conecta os dois.](./assets/header.svg)
+![Daniel — projetos, prática e aprendizado.](./assets/header.svg)
 
 [Repositórios](https://github.com/Danielloes?tab=repositories) &nbsp; / &nbsp; [Contribuições](https://github.com/Danielloes?tab=overview#activity-overview)
 
 ### Prazer, Daniel.
 
-Meus projetos passam por Java e Python. Gosto da parte de backend e de entender como os servidores se comunicam — principalmente quando algum deles para de responder.
+Estou reunindo aqui meus projetos em Java e Python. Este espaço mostra o que venho desenvolvendo e aprendendo na prática.
 
-Por aqui, reúno o que desenvolvo e aprendo nesse caminho.
+Ainda estou organizando os repositórios e a documentação de cada projeto.
 
 <br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<strong>No código</strong><br><br>
-Java e Python.<br>
-Flask nas APIs, MongoDB nos dados e Git no versionamento.
+<strong>Meus projetos</strong><br><br>
+Java e Python são as linguagens que aparecem nos trabalhos que estou reunindo aqui.
 </td>
 <td width="50%" valign="top">
-<strong>Além do código</strong><br><br>
-Infraestrutura, comunicação entre servidores e sistemas distribuídos.
+<strong>Em construção</strong><br><br>
+Novos repositórios, instruções de execução e mais detalhes sobre o que fiz em cada trabalho.
 </td>
 </tr>
 </table>
 
 <details>
-<summary><strong>O que me interessa em sistemas distribuídos</strong></summary>
+<summary><strong>Tecnologias presentes nos projetos</strong></summary>
 
 <br>
 
-Como perceber que uma instância caiu? Quem assume o lugar dela? E o que acontece quando os servidores deixam de se enxergar?
-
-Heartbeat, eleição de líder e detecção de falhas são assuntos que já explorei em código e quero continuar estudando.
+Java · Python · Flask · MongoDB · Git
 
 </details>
 
 <details>
-<summary><strong>Ver minhas tecnologias por área</strong></summary>
+<summary><strong>Meu contato com sistemas distribuídos</strong></summary>
 
 <br>
 
-| Área | Tecnologias |
-| :--- | :--- |
-| Linguagens | Java · Python |
-| API | Flask |
-| Banco de dados | MongoDB |
-| Versionamento | Git · GitHub |
+Tive um contato inicial com o tema em um projeto de eleição de servidores com heartbeat. É uma experiência pontual; ainda estou construindo minha base nesse assunto.
 
 </details>
 
