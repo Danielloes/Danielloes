@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! Sou o Daniel 👋
+# Olá! Sou o Daniel 
 
 **Java · Python · Backend**
 
