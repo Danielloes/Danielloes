@@ -4,7 +4,7 @@
 
 ### Sou o Daniel.
 
-Aqui estão alguns dos trabalhos que desenvolvi durante meus estudos. Tenho usado Java para criar aplicações com interface gráfica e praticar orientação a objetos e estruturas de dados.
+Este perfil reúne projetos pessoais e trabalhos que fiz na faculdade. Tenho usado Java para criar aplicações com interface gráfica e praticar orientação a objetos e estruturas de dados.
 
 Gosto de ver os conceitos funcionando: de uma lista encadeada até uma tela que registra despesas ou identifica um erro em um arquivo HTML.
 
@@ -16,7 +16,7 @@ Gosto de ver os conceitos funcionando: de uma lista encadeada até uma tela que 
 <tr>
 <td width="8%" valign="top"><strong>01</strong></td>
 <td width="92%">
-<strong><a href="https://github.com/Danielloes/personal-finance-manager">Controle financeiro pessoal ↗</a></strong><br><br>
+<strong><a href="https://github.com/Danielloes/personal-finance-manager">Controle financeiro pessoal</a></strong><br><br>
 Aplicativo desktop para registrar receitas e despesas, consultar lançamentos e acompanhar o saldo. Os dados são armazenados em CSV.<br><br>
 <sub>Java · Swing · BigDecimal · Arquivos CSV</sub>
 </td>
@@ -24,7 +24,7 @@ Aplicativo desktop para registrar receitas e despesas, consultar lançamentos e 
 <tr>
 <td valign="top"><strong>02</strong></td>
 <td>
-<strong><a href="https://github.com/Danielloes/html-structure-validator">Validador de estrutura HTML ↗</a></strong><br><br>
+<strong><a href="https://github.com/Danielloes/html-structure-validator">Validador de estrutura HTML</a></strong><br><br>
 Verifica a abertura e o fechamento de tags usando uma pilha encadeada. Tem interface gráfica e execução pelo console, com indicação da linha e coluna do erro.<br><br>
 <sub>Java · Swing · Pilha · Lista encadeada</sub>
 </td>
@@ -32,7 +32,7 @@ Verifica a abertura e o fechamento de tags usando uma pilha encadeada. Tem inter
 <tr>
 <td valign="top"><strong>03</strong></td>
 <td>
-<strong><a href="https://github.com/Danielloes/java-data-structures">Estruturas de dados ↗</a></strong><br><br>
+<strong><a href="https://github.com/Danielloes/java-data-structures">Estruturas de dados</a></strong><br><br>
 Implementações didáticas de listas: array redimensionável, lista simplesmente encadeada e lista duplamente encadeada.<br><br>
 <sub>Java · Generics · Referências entre nós</sub>
 </td>
@@ -69,4 +69,4 @@ Implementações didáticas de listas: array redimensionável, lista simplesment
 
 ---
 
-<sub>Projetos de estudo, com documentação e instruções de execução nos repositórios.</sub>
+<sub>Projetos pessoais e trabalhos da faculdade. Documentação e instruções de execução nos repositórios.</sub>
