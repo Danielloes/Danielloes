@@ -1,4 +1,4 @@
-![Daniel — software, dados e IA aplicada.](./assets/header.svg?v=5)
+![Daniel — software, dados e IA aplicada.](https://raw.githubusercontent.com/Danielloes/Danielloes/bbf7dfe3913443efadec5428979878dd64860794/assets/header.svg)
 
 [Projetos em destaque](#projetos-em-destaque) · [Todos os repositórios](https://github.com/Danielloes?tab=repositories) · [Contribuições](https://github.com/Danielloes?tab=overview#activity-overview)
 
