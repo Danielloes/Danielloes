@@ -1,43 +1,51 @@
-![Daniel — aplicações e estruturas de dados em Java.](./assets/header.svg?v=4)
+![Daniel — software, dados e IA aplicada.](./assets/header.svg?v=5)
 
-[Meus repositórios](https://github.com/Danielloes?tab=repositories) &nbsp; / &nbsp; [Histórico de contribuições](https://github.com/Danielloes?tab=overview#activity-overview)
+[Projetos em destaque](#projetos-em-destaque) · [Todos os repositórios](https://github.com/Danielloes?tab=repositories) · [Contribuições](https://github.com/Danielloes?tab=overview#activity-overview)
 
 ### Sou o Daniel.
 
-Este perfil reúne projetos pessoais e trabalhos que fiz na faculdade. Tenho usado Java para criar aplicações com interface gráfica e praticar orientação a objetos e estruturas de dados.
+Sou estudante e reúno aqui projetos pessoais e trabalhos da faculdade. Tenho usado **Java** para criar aplicações com interface gráfica e praticar orientação a objetos e estruturas de dados. Com **Python**, desenvolvo projetos de dados, APIs e avaliação de assistentes.
 
-Gosto de ver os conceitos funcionando: de uma lista encadeada até uma tela que registra despesas ou identifica um erro em um arquivo HTML.
+Gosto de ver os conceitos funcionando, de uma lista encadeada até uma aplicação que registra despesas, estima uma entrega ou detecta uma regressão no atendimento.
 
-<br>
-
-### Trabalhos em Java
+## Projetos em destaque
 
 <table>
 <tr>
-<td width="8%" valign="top"><strong>01</strong></td>
-<td width="92%">
-<strong><a href="https://github.com/Danielloes/personal-finance-manager">Controle financeiro pessoal</a></strong><br><br>
-Aplicativo desktop para registrar receitas e despesas, consultar lançamentos e acompanhar o saldo. Os dados são armazenados em CSV.<br><br>
-<sub>Java · Swing · BigDecimal · Arquivos CSV</sub>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Danielloes/bot-eval-lab">Bot Eval Lab</a></h3>
+<p>Laboratório para comparar assistentes de atendimento em português e detectar regressões antes de uma atualização.</p>
+<p><strong>48 conversas fictícias · 49 testes · CI em Windows e Ubuntu</strong></p>
+<p><sub>Python · SQLite · pytest · Embeddings</sub></p>
+<a href="https://github.com/Danielloes/bot-eval-lab#demo-em-um-comando">Executar a demo</a> · <a href="https://github.com/Danielloes/bot-eval-lab/blob/main/examples/demo.html">Relatório de exemplo</a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Danielloes/previsao-de-entrega">Previsão de Entrega</a></h3>
+<p>Estima a duração de entregas e o risco de atraso com regressão Ridge, API e painel de consulta.</p>
+<p><strong>Avaliação temporal · Comparação com baselines · Explicação da previsão</strong></p>
+<p><sub>Python · FastAPI · Machine Learning</sub></p>
+<a href="https://github.com/Danielloes/previsao-de-entrega#instala%C3%A7%C3%A3o-e-execu%C3%A7%C3%A3o">Executar o projeto</a> · <a href="https://github.com/Danielloes/previsao-de-entrega/blob/main/evaluation_report.json">Avaliação registrada</a>
 </td>
 </tr>
 <tr>
-<td valign="top"><strong>02</strong></td>
-<td>
-<strong><a href="https://github.com/Danielloes/html-structure-validator">Validador de estrutura HTML</a></strong><br><br>
-Verifica a abertura e o fechamento de tags usando uma pilha encadeada. Tem interface gráfica e execução pelo console, com indicação da linha e coluna do erro.<br><br>
-<sub>Java · Swing · Pilha · Lista encadeada</sub>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Danielloes/personal-finance-manager">Controle Financeiro Pessoal</a></h3>
+<p>Aplicativo desktop para registrar receitas e despesas, consultar lançamentos e acompanhar o saldo. Os dados são armazenados em CSV.</p>
+<p><sub>Java · Swing · BigDecimal · Arquivos CSV</sub></p>
+<a href="https://github.com/Danielloes/personal-finance-manager">Código e instruções</a> · <a href="https://github.com/Danielloes/personal-finance-manager/blob/main/docs/menu.png">Interface</a>
 </td>
-</tr>
-<tr>
-<td valign="top"><strong>03</strong></td>
-<td>
-<strong><a href="https://github.com/Danielloes/java-data-structures">Estruturas de dados</a></strong><br><br>
-Implementações didáticas de listas: array redimensionável, lista simplesmente encadeada e lista duplamente encadeada.<br><br>
-<sub>Java · Generics · Referências entre nós</sub>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Danielloes/html-structure-validator">Validador de Estrutura HTML</a></h3>
+<p>Verifica a abertura e o fechamento de tags com uma pilha encadeada. Interface gráfica e console indicam linha e coluna do erro.</p>
+<p><sub>Java · Swing · Pilha · Lista encadeada</sub></p>
+<a href="https://github.com/Danielloes/html-structure-validator">Código e instruções</a> · <a href="https://github.com/Danielloes/html-structure-validator/blob/main/docs/validador.png">Interface</a>
 </td>
 </tr>
 </table>
+
+### Fundamentos em prática
+
+**[Estruturas de dados em Java](https://github.com/Danielloes/java-data-structures)** reúne implementações didáticas de listas com array redimensionável, encadeamento simples e duplo, generics e testes.
 
 <details>
 <summary><strong>Mais trabalhos: jogos e orientação a objetos</strong></summary>
